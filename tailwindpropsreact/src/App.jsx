@@ -9,7 +9,9 @@ function App() {
   return (
     <>
       <h1 className='bg-green-200 text-blue-900 mb-5'>Tailwind css</h1>
-      <Card></Card>
+      <Card username="Aditya Pandey" age="20"></Card>
+      <Card username="ROHIT SHARMA" age="45"></Card>
+
     </>
   )
 }
